@@ -27,7 +27,7 @@
   global.owner = ['6285880486685','6285880486685','6287872891239'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285880486685' // Owner Utama Istilahnya
   global.botname = '©️WiliamBotz' // Ganti Jadi Nama Botmu
-  global.packname = '©️WiliamBotz // Sticker Weem
+  global.packname = '©️WiliamBotz' // Sticker Weem
   global.author = 'Wil' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/GWSx8SGgu946Pj36qY5MZN' // Ganti Sama Link Gc Mu

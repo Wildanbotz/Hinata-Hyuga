@@ -30,7 +30,7 @@
   global.packname = '©️WiliamBotz // Sticker Weem
   global.author = 'Wil' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/GWSx8SGgu946Pj36qY5MZN' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/Wildanbotz' // Ganti Sama Link Github Mu
